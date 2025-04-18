@@ -149,7 +149,7 @@ To send templated flight confirmations:
 
 ## 🙏 Thanks & Attribution
 
-Special thanks to **Meta Platforms Inc.** for their WhatsApp Cloud API and official tutorials, which inspired this project.
+Special thanks to **Dmitry Vinnik** and **Meta Platforms Inc.** for their WhatsApp Cloud API and official tutorials, which inspired this project.
 
 - [Sending WhatsApp Messages with Python](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)
 - [Building WhatsApp Templates for eCommerce](https://developers.facebook.com/blog/post/2022/11/14/building-whatsapp-message-templates-for-ecommerce/)
