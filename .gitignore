@@ -1,0 +1,77 @@
+.env
+node_modules
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask environment variables
+.env
+.env.*
+
+# Flask instance folder
+instance/
+
+# Configuration and secrets
+config.json
+
+# Pytest and coverage files
+.pytest_cache/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS junk
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Compiled C files
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Database files
+*.sqlite3
+*.db
+
+# Dist and packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pip dependency management
+pip-log.txt
+pip-delete-this-directory.txt

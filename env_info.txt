@@ -1,0 +1,7 @@
+Python Version:
+Python 3.12.3
+
+Pip Version:
+pip 24.0 from /home/kgotso-koete/Documents/Projects/Personal/WhatsApp/send-messages-flight-app-python/venv/lib/python3.12/site-packages/pip (python 3.12)
+
+Installed Packages:
