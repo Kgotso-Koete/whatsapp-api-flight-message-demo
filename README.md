@@ -5,7 +5,6 @@ This is a demo Python Flask application for sending WhatsApp messages using the 
 Inspired by:
 
 - [Sending Messages with WhatsApp in Your Python Applications By Dmitry Vinnik](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)
-- [Designing eCommerce WhatsApp templates](https://developers.facebook.com/blog/post/2022/11/14/building-whatsapp-message-templates-for-ecommerce/)
 
 ---
 
@@ -151,10 +150,7 @@ To send templated flight confirmations:
 
 Special thanks to **Dmitry Vinnik** and **Meta Platforms Inc.** for their WhatsApp Cloud API and official tutorials, which inspired this project.
 
-- [Sending WhatsApp Messages with Python](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)
-- [Building WhatsApp Templates for eCommerce](https://developers.facebook.com/blog/post/2022/11/14/building-whatsapp-message-templates-for-ecommerce/)
-
-This project follows Meta's developer terms and is built for learning and testing.
+- [Sending Messages with WhatsApp in Your Python Applications By Dmitry Vinnik](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)
 
 ---
 
