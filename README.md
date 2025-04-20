@@ -171,10 +171,9 @@ Special thanks to **Dmitry Vinnik** and **Meta Platforms Inc.** for their WhatsA
 
 ---
 
-## 🚀 What's Next
+## 📂 License
 
-- Add webhook listener for message status updates
-- Deploy to a server with HTTPS (required for webhooks)
-- Build a dashboard for logs or analytics
+MIT License - See [LICENSE](LICENSE).  
+**Disclaimer**: Not affiliated with Meta/Facebook. Use WhatsApp API in compliance with [Meta's Policies](https://developers.facebook.com/docs/whatsapp/policy-overview).
 
-Let us know if you'd like a `Dockerfile` or deployment guide!
+---
